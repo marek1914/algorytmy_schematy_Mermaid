@@ -1,9 +1,9 @@
-Wykorzystując edytor grafiki wektorowej „Inkscape” lub narzędzie „Kształty” edytora tekstu „Word”, narysuj schemat blokowy algorytmu
+Wykorzystując edytor grafiki wektorowej „Inkscape” lub narzędzie „Kształty” edytora tekstu „Word”, 
 
-znajdującego jednocześnie najmniejszy i największy element w zbiorze. W
+narysuj schemat blokowy algorytmu
 
-przypadku wykorzystania programu „Inkscape” wykonane zadanie zapisz w
+znajdującego jednocześnie najmniejszy i największy element w zbiorze. 
 
-formacie svg. W przypadku zastosowania programu Word rozwiązanie
+W przypadku wykorzystania programu „Inkscape” wykonane zadanie zapisz w formacie svg. 
 
-zadania zapisz w pliku o formacie doc lub docx.
+W przypadku zastosowania programu Word rozwiązanie zadania zapisz w pliku o formacie doc lub docx.
